@@ -27,12 +27,29 @@ html, body {
     font-size: 2rem;
     line-height: 3.5rem;
 }
+
+
+.social-links a:link, .social-links a:hover, .social-links a:active, .social-links a:visited {
+    text-decoration: none;
+}
+
+.social-links img {
+    width: 32px;
+    margin: 5px 6px 5px 6px;
+}
+
 .featured-heading {
     color: #666;
 }
 
 .project {
     margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+    .project {
+        text-align: center;
+    }
 }
 
 .project h3 {
