@@ -23,6 +23,10 @@ html, body {
     font-weight: 300;
 }
 
+.main-text {
+    font-size: 2rem;
+    line-height: 3.5rem;
+}
 .featured-heading {
     color: #666;
 }
