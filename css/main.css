@@ -1,0 +1,36 @@
+html, body {
+    font-family: 'Lato', sans-serif;
+}
+
+.title-logo {
+    margin-top: 15px;
+}
+
+.title-logo img {
+    border-radius: 50%;
+}
+
+.title-main {
+    margin-top: 15px;
+}
+
+.title-main h1 {
+    font-size: 5rem;
+    font-weight: 100;
+}
+
+.title-main h4 {
+    font-weight: 300;
+}
+
+.featured-heading {
+    color: #666;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    margin: 7px 0 7px 0;
+}
